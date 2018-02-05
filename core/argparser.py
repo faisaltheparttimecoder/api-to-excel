@@ -16,7 +16,7 @@ def parserags(args):
                                                  'data from Pivotal Tracker & Zendesk Articles to excel, '
                                                  'which is helpful for generating report on known issues '
                                                  'for a particular version',
-                                     epilog='Source code available at https://github.com/faisaltheparttimecoder/DataScroller',
+                                     epilog='Source code available at https://github.com/faisaltheparttimecoder/api-to-excel',
                                      add_help=False)
     parser.add_argument('-?', '--help', action='help', help='Prints this message')
     parser.add_argument('-v', '--version', action='version', version=' %(prog)s version: ' + version())
