@@ -39,7 +39,7 @@ python data_scroller.py tracker -p <project-id> -q created_since:11/16/2017 -t <
 + To pull all data with keyword 2.0
 
 ```
-python data_scroller.py zendesk -u <zd username> -p <zd password> -q 2.0 <zd-endpoint>
+python data_scroller.py zendesk -u <zd username> -p <zd password> -q 2.0 -e <zd-endpoint>
 ```
 
 + To pull all data with keyword 2.0 which is updated after 2014-01-01 and before 2014-02-01
