@@ -3,6 +3,6 @@ chardet==3.0.4
 colorlog==3.1.2
 idna==2.6
 requests==2.18.4
-urllib3==1.22
+urllib3==1.26.5
 wheel==0.24.0
 XlsxWriter==1.0.2
